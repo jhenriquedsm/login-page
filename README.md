@@ -1,27 +1,31 @@
-# LoginPage
+# Login Page
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.2.
 
-## Development server
+## About
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This project was developed in order to consolidate learning with Angular and integrate an api with Java and Spring, thus making a full stack project.
 
-## Code scaffolding
+## Run
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You can run locally with:
+- git clone “git@github.com:jhenriquedsm/login-page.git”
+- npm run start
+- https://localhost:4200
 
-## Build
+Or by visiting [Login Page](https://login-page-weld-eight.vercel.app/login)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Technologies used
+Frontend:
+- Angular
+- TypeScript
+- HTML
+- CSS
 
-## Running unit tests
+Backend:
+- Java
+- Spring Framework
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Backend
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+You can access this project's backend at [login-auth-api](https://github.com/jhenriquedsm/login-auth-api)
